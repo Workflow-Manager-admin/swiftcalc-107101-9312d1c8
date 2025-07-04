@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="accent">#FFB300</color>
+    <color name="white">#FFFFFF</color>
+    <color name="key_bg">#FAFAFA</color>
+    <color name="key_secondary">#E3E9F7</color>
+    <color name="key_accent">#FFB300</color>
+    <color name="txt_main">#212121</color>
+    <color name="txt_grey">#616161</color>
+</resources>
